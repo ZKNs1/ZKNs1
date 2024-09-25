@@ -1,7 +1,7 @@
 <h1 >Hello 👋, I'm Melina</h1>
 <h3>A developer junior from Brazil</h3>
 
-- 🔭 I’m currently working in **2RP Net**
+- 👩🏻‍💻 I’m currently working in **2RP Net**
 
 - 💻 I’m developing a **Discord Bot**
 
