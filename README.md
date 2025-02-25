@@ -27,4 +27,4 @@
 </p>
 
 ### ⭐ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkns1&show_icons=true&locale=en&layout=compact" alt="zkns1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkns1&show_icons=true&locale=en&layout=compact&theme=dark" alt="zkns1" /></p>
