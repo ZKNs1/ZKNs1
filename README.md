@@ -1,7 +1,5 @@
 <h1>Melina Nogueira</h1>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhjdXltYXNncTk2aDQ5ZHdiNWxkYWR5bTJrYzNqOGFmbHNkbzUwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="200" align="right">
-
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhjdXltYXNncTk2aDQ5ZHdiNWxkYWR5bTJrYzNqOGFmbHNkbzUwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAe22Ec5iICCk/giphy.gif" width="170" align="right">
 
 <p align="left">  
   Olá, eu sou a Melina 👩🏻‍💻!<br>  
