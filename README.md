@@ -65,9 +65,3 @@ Gosto de unir <strong>estética e lógica</strong>, criando experiências que te
 <a href="mailto:nogueiramelina1@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/melina-nogueira-844878273/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
-
-<h2>⭐ GitHub Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZKNs1&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZKNs1&show_icons=true&locale=en&layout=compact&theme=ocean_dark" alt="zkns1" />
-</div>
