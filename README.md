@@ -3,7 +3,7 @@
 
 <p align="left">  
   Olá, eu sou a Melina 👩🏻‍💻!<br>  
-  Sou desenvolvedora júnior do Brasil, cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e atuando na <strong>2RP Net</strong>.<br>  
+  Sou desenvolvedora júnior do Brasil, formada <strong>Análise e Desenvolvimento de Sistemas</strong> e atuando na <strong>Opah IT</strong>.<br>  
   Meu foco é <strong>frontend</strong> e <strong>desenvolvimento fullstack</strong>, criando aplicações web e mobile modernas.  
   Atualmente, estou explorando tecnologias como React, Next.js, FastAPI e também aprimorando minhas skills em UX/UI e n8n.  
 </p>
